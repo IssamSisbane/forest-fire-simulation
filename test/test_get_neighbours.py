@@ -1,5 +1,5 @@
 import unittest
-import ForetBrule as fbt
+import forest_fire_simulation as fbt
 
 
 
